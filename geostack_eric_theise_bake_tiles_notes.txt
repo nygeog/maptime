@@ -1,0 +1,5 @@
+
+Maptimes stuff. 
+
+ /Library/Caches/Homebrew/postgresql-9.3.5.tar.bz2
+ osm2pgsql -H localhost --hstore-all -d portland_from_osm ~/Downloads/portland_oregon.osm.pbf
